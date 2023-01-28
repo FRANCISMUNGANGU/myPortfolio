@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="437b47e8-812e-42a2-8cc1-b3c5d92cd4bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/myPortfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/IMG_20230105_190852_284.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KwpqKRbHxPr1GSqQSbr8X1Uzd7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TOM MWACHOFI/desktop/projects/myPortfolio/assests&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TOM MWACHOFI\desktop\projects\myPortfolio\assests" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="437b47e8-812e-42a2-8cc1-b3c5d92cd4bb" name="Changes" comment="" />
+      <created>1674895689126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674895689126</updated>
+      <workItem from="1674895690372" duration="23000" />
+      <workItem from="1674895739012" duration="25000" />
+      <workItem from="1674895778697" duration="250000" />
+      <workItem from="1674896125429" duration="455000" />
+      <workItem from="1674896683340" duration="130000" />
+      <workItem from="1674896863154" duration="1186000" />
+      <workItem from="1674898098144" duration="24000" />
+      <workItem from="1674898143614" duration="59000" />
+      <workItem from="1674898222974" duration="86000" />
+      <workItem from="1674898371527" duration="54000" />
+      <workItem from="1674898455304" duration="17000" />
+      <workItem from="1674898489843" duration="24000" />
+      <workItem from="1674898574102" duration="46000" />
+      <workItem from="1674898639908" duration="20000" />
+      <workItem from="1674898672405" duration="31000" />
+      <workItem from="1674898735971" duration="30000" />
+      <workItem from="1674898789391" duration="13000" />
+      <workItem from="1674898830437" duration="138000" />
+      <workItem from="1674899038917" duration="35000" />
+      <workItem from="1674899119780" duration="62000" />
+      <workItem from="1674899205514" duration="209000" />
+      <workItem from="1674899460700" duration="61000" />
+      <workItem from="1674899579067" duration="79000" />
+      <workItem from="1674899711902" duration="80000" />
+      <workItem from="1674902705904" duration="131000" />
+      <workItem from="1674902935559" duration="232000" />
+      <workItem from="1674903192513" duration="107000" />
+      <workItem from="1674903397219" duration="312000" />
+      <workItem from="1674913035361" duration="3000" />
+      <workItem from="1674913740594" duration="56000" />
+      <workItem from="1674913853127" duration="1947000" />
+      <workItem from="1674915893870" duration="171000" />
+      <workItem from="1674916159740" duration="1816000" />
+      <workItem from="1674918037610" duration="75000" />
+      <workItem from="1674918139070" duration="411000" />
+      <workItem from="1674918602360" duration="191000" />
+      <workItem from="1674918847244" duration="55000" />
+      <workItem from="1674918947527" duration="102000" />
+      <workItem from="1674919089211" duration="1065000" />
+      <workItem from="1674920192370" duration="142000" />
+      <workItem from="1674920367949" duration="38000" />
+      <workItem from="1674920461268" duration="937000" />
+      <workItem from="1674921570541" duration="906000" />
+      <workItem from="1674922557453" duration="1134000" />
+      <workItem from="1674924452207" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
